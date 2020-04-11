@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: deploy
+  repo: Timothydpaul/tim-blog
 media_folder: static/assets
 public_folder: /assets
 collections:
